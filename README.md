@@ -306,5 +306,6 @@ get_metrics(mock_events, country="CR", from_date="2026-05-01T00:00:00Z")
 ---
 
 ## 📧 Contacto
-
+luismartinez.developer@gmail.com
++584126335861
 Proyecto de desafío técnico: **python-tinybird-challenge**
